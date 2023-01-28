@@ -6,7 +6,7 @@ sudo systemctl start docker
 # install yay
 git clone https://aur.archlinux.org/yay-bin.git
 cd yay-bin
-makepkg -si --noconfirm
+y | makepkg -si --noconfirm
 cd ~
 # install vscodium
 yay -S vscodium-bin --noconfirm
