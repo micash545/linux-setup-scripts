@@ -9,3 +9,7 @@ Setup Debian with rocm:
 ```bash
 curl -s https://raw.githubusercontent.com/micash545/linux-setup-scripts/main/scripts/setupdebian-amdgpurocm.sh | bash 
 ```
+Setup Arch:
+```bash
+curl -s https://raw.githubusercontent.com/micash545/linux-setup-scripts/main/scripts/setuparch.sh | bash
+```
